@@ -3187,9 +3187,10 @@ github-injection@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/github-injection/-/github-injection-1.0.1.tgz#fad4bee67b988993c527556101a87138245ed0dc"
 
-github-url-to-object@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/github-url-to-object/-/github-url-to-object-4.0.2.tgz#11e206d54263b701a9e3b7cc09a55bb3886e0c97"
+github-url-to-object@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/github-url-to-object/-/github-url-to-object-4.0.6.tgz#5ea8701dc8c336b8d582dc3fa5bf964165c3b365"
+  integrity sha512-NaqbYHMUAlPcmWFdrAB7bcxrNIiiJWJe8s/2+iOc9vlcHlwHqSGrPk+Yi3nu6ebTwgsZEa7igz+NH2vEq3gYwQ==
   dependencies:
     is-url "^1.1.0"
 
